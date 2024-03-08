@@ -11,4 +11,4 @@ public enum ButtonAction
     SaveToClipboard,
     Run
 }
-public delegate void VoidAction(ButtonAction action);
+
