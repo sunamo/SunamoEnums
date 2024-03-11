@@ -33,7 +33,7 @@ public enum Encodings
     BOCU_1,
     GB18030
 }
-//public enum Encodings
+//public enum2 Encodings
 //{
 //    utf7,
 //    utf8,
