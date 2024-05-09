@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoEnumsHelper
+SunamoEnumsHelper
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /*
 * Can use hexadecimal or decimal - its not important

@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoString
+SunamoString
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum StatisticLetterCharsStrategy
 {

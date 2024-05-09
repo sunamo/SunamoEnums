@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoPS
+SunamoPS
+#elif SunamoShared
+SunamoShared
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum CommandWithPath
 {

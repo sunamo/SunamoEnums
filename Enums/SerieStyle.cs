@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoFileSystem
+SunamoFileSystem
+#elif SunamoShared
+SunamoShared
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 /// All styles here are taked from FSTests

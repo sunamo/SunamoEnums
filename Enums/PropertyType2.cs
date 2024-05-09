@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoConverters
+SunamoConverters
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum PropertyType2
 {

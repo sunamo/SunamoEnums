@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoShared
+SunamoShared
+#elif SunamoXlfKeys
+SunamoXlfKeys
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 ///     Usage: Xlf

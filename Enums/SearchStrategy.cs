@@ -1,4 +1,14 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoCl
+SunamoCl
+#elif SunamoCollections
+SunamoCollections
+#elif SunamoStringShared
+SunamoStringShared
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 /// FixedSpace - Contains

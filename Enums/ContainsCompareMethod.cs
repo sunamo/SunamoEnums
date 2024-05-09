@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoCollections
+SunamoCollections
+#elif SunamoStringShared
+SunamoStringShared
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 /// Used in SunamoCollectionsGenericStore + SunamoCollections

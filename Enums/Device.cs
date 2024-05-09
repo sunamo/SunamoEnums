@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoDevCode
+SunamoDevCode
+#elif SunamoWinStd
+SunamoWinStd
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 /// Pro rychlé zjištění můžeš používat i metody UniversalInterop, vhodné zejména v případě že aplikace se ovládá např. gesty prstů

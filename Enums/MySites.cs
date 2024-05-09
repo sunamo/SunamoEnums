@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoEnumsHelper
+SunamoEnumsHelper
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 ///     Používá se pro mnoho serverů pro ukládání do DB, proto hodnotu žádné z těchto výčtových hodnot nemůžeš měnit,

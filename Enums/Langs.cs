@@ -1,4 +1,20 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoDateTime
+SunamoDateTime
+#elif SunamoDevCode
+SunamoDevCode
+#elif SunamoLogMessage
+SunamoLogMessage
+#elif SunamoShared
+SunamoShared
+#elif SunamoThisApp
+SunamoThisApp
+#elif SunamoXlfKeys
+SunamoXlfKeys
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 // Musí být ve SunamoEnums protože je sdílen např. i ve SunamoDateTime
 

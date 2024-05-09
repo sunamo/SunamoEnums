@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoPInvoke
+SunamoPInvoke
+#elif SunamoXlfKeys
+SunamoXlfKeys
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum AllOne
 {

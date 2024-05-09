@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoFileSystem
+SunamoFileSystem
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum DirectoryMoveCollisionOption
 {

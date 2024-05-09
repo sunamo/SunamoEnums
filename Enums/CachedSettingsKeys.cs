@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoPlatformUwpInterop
+SunamoPlatformUwpInterop
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 /// Toto vždy používat jen společně s CachedSettings!!!

@@ -1,4 +1,14 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoDebugging
+SunamoDebugging
+#elif SunamoDevCode
+SunamoDevCode
+#elif SunamoFileSystem
+SunamoFileSystem
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum ComputerSizeUnits : byte
 {

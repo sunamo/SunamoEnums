@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoBts
+SunamoBts
+#elif SunamoFtp
+SunamoFtp
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 /// Zkratka pro SignedUnsigned

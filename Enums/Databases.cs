@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoCl
+SunamoCl
+#elif SunamoUnderscore
+SunamoUnderscore
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum Databases
 {

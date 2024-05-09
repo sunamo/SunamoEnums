@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoWinStd
+SunamoWinStd
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum EnvironmentVariables
 {

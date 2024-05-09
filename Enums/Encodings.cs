@@ -1,4 +1,10 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoFubuCsProjFile
+SunamoFubuCsProjFile
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 /// <summary>
 ///     Original are values which exists before add remains from ByteOrderMark.cs

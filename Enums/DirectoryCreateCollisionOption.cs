@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+namespace
+#if SunamoFileSystem
+SunamoFileSystem
+#elif SunamoShared
+SunamoShared
+#else SunamoEnumsEnums
+SunamoEnumsEnums
+#endif
+;
 
 public enum DirectoryCreateCollisionOption
 {
