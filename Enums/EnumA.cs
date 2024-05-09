@@ -1,7 +1,7 @@
 namespace
 #if SunamoEnumsHelper
 SunamoEnumsHelper
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

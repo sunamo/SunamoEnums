@@ -1,7 +1,7 @@
 namespace
 #if SunamoPlatformUwpInterop
 SunamoPlatformUwpInterop
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

@@ -1,7 +1,7 @@
 namespace
 #if SunamoFubuCsProjFile
 SunamoFubuCsProjFile
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

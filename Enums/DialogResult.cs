@@ -1,7 +1,7 @@
 namespace
 #if SunamoCl
 SunamoCl
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

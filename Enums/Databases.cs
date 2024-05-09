@@ -3,7 +3,7 @@ namespace
 SunamoCl
 #elif SunamoUnderscore
 SunamoUnderscore
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

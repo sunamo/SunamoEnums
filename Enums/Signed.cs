@@ -3,7 +3,7 @@ namespace
 SunamoBts
 #elif SunamoFtp
 SunamoFtp
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

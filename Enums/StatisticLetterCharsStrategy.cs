@@ -1,7 +1,7 @@
 namespace
 #if SunamoString
 SunamoString
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

@@ -3,7 +3,7 @@ namespace
 SunamoCollections
 #elif SunamoStringShared
 SunamoStringShared
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

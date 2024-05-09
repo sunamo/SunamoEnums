@@ -1,7 +1,7 @@
 namespace
 #if SunamoDateTime
 SunamoDateTime
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

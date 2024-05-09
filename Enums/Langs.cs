@@ -11,7 +11,7 @@ SunamoShared
 SunamoThisApp
 #elif SunamoXlfKeys
 SunamoXlfKeys
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;

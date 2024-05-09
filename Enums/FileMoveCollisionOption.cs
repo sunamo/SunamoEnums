@@ -9,7 +9,7 @@ SunamoFileSystem
 SunamoHttp
 #elif SunamoShared
 SunamoShared
-#else SunamoEnumsEnums
+#else
 SunamoEnumsEnums
 #endif
 ;
