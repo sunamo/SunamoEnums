@@ -5,6 +5,8 @@ SunamoCollectionsGenericShared
 SunamoDateTime
 #elif SunamoCl
     SunamoCl
+#elif SunamoCollections
+SunamoCollections
 #else
 SunamoEnumsEnums
 #endif

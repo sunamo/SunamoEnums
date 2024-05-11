@@ -1,4 +1,12 @@
-namespace SunamoEnums.Enums;
+
+namespace
+#if SunamoCl
+SunamoCl
+#else
+    SunamoEnums.Enums
+#endif
+;
+
 
 /// <summary>
 /// Jsou dělané přesně podle Request.Browser.Browser
