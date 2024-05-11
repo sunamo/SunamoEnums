@@ -3,6 +3,8 @@ namespace
 SunamoCollectionsGenericShared
 #elif SunamoDateTime
 SunamoDateTime
+#elif SunamoCl
+    SunamoCl
 #else
 SunamoEnumsEnums
 #endif

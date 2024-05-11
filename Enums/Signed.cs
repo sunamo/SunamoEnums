@@ -1,6 +1,8 @@
 namespace
 #if SunamoBts
 SunamoBts
+#elif SunamoArgs
+    SunamoArgs
 #elif SunamoFtp
 SunamoFtp
 #else
