@@ -4,7 +4,7 @@ SunamoDevCode
 #elif SunamoWinStd
 SunamoWinStd
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

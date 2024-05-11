@@ -6,7 +6,7 @@ SunamoBts
 #elif SunamoFtp
 SunamoFtp
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

@@ -2,7 +2,7 @@ namespace
 #if SunamoXlfKeys
 SunamoXlfKeys
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

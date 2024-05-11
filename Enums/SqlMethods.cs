@@ -1,4 +1,4 @@
-namespace SunamoEnums.Enums;
+namespace SunamoEnums;
 
 /// <summary>
 /// Operace, ktere muze provest dat. adapter na DB

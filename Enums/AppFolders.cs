@@ -14,7 +14,7 @@ SunamoPlatformUwpInterop
 #elif SunamoShared
 SunamoShared
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

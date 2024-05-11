@@ -1,4 +1,4 @@
-namespace SunamoEnums.Enums;
+namespace SunamoEnums;
 
 public enum ResultCheckWebArgument
 {

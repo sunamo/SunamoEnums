@@ -4,7 +4,7 @@ SunamoCollections
 #elif SunamoStringShared
 SunamoStringShared
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

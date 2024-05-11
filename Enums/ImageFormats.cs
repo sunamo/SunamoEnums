@@ -2,7 +2,7 @@ namespace
 #if SunamoShared
 SunamoShared
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

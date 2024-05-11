@@ -6,7 +6,7 @@ SunamoDevCode
 #elif SunamoFileSystem
 SunamoFileSystem
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

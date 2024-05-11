@@ -2,7 +2,7 @@ namespace
 #if SunamoConverters
 SunamoConverters
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

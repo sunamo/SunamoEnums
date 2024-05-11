@@ -2,7 +2,7 @@ namespace
 #if SunamoWinStd
 SunamoWinStd
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

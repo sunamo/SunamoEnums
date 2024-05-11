@@ -4,7 +4,7 @@ SunamoPInvoke
 #elif SunamoXlfKeys
 SunamoXlfKeys
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

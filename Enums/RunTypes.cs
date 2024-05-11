@@ -1,4 +1,4 @@
-namespace SunamoEnums.Enums;
+namespace SunamoEnums;
 
 /// <summary>
 /// Případy licence které mohou být

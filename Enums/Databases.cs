@@ -4,7 +4,7 @@ SunamoCl
 #elif SunamoUnderscore
 SunamoUnderscore
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 

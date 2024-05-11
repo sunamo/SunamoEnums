@@ -1,4 +1,4 @@
-namespace SunamoEnums.Enums;
+namespace SunamoEnums;
 
 /// <summary>
 /// Jak se má program zachovat pokud nalezne stejně pojmmenovanou složku nebo soubor

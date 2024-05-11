@@ -1,4 +1,6 @@
-namespace
+
+namespace SunamoEnums;
+sunamoWithoutLocalDep
 #if SunamoCollectionsGenericShared
 SunamoCollectionsGenericShared
 #elif SunamoDateTime

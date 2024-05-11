@@ -1,4 +1,6 @@
 
+namespace SunamoEnums;
+
 namespace
 #if SunamoCl
 SunamoCl

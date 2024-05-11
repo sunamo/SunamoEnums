@@ -10,7 +10,7 @@ SunamoHttp
 #elif SunamoShared
 SunamoShared
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 public enum FileMoveCollisionOption

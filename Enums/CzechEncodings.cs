@@ -1,4 +1,4 @@
-namespace SunamoEnums.Enums;
+namespace SunamoEnums;
 
 /// <summary>
 ///  from https://cs.wikipedia.org/wiki/K%C3%B3dov%C3%A1n%C3%AD_%C4%8De%C5%A1tiny
