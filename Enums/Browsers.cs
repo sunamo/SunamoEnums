@@ -1,5 +1,4 @@
 
-namespace SunamoEnums;
 
 namespace
 #if SunamoCl

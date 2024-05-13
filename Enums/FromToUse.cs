@@ -1,5 +1,4 @@
 
-namespace SunamoEnums;
 sunamoWithoutLocalDep
 #if SunamoCollectionsGenericShared
 SunamoCollectionsGenericShared
