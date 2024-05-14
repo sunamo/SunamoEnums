@@ -3,7 +3,39 @@
 
 namespace
 #if SunamoCl
-    SunamoCl
+SunamoCl
+#elif SunamoLogger
+SunamoLogger
+#elif SunamoLogger
+SunamoLogger
+#elif SunamoLogger
+SunamoLogger
+#elif SunamoLogger
+SunamoLogger
+#elif SunamoLogger
+SunamoLogger
+#elif SunamoLogMessage
+SunamoLogMessage
+#elif SunamoLogMessage
+SunamoLogMessage
+#elif SunamoLogMessage
+SunamoLogMessage
+#elif SunamoShared
+SunamoShared
+#elif SunamoShared
+SunamoShared
+#elif SunamoShared
+SunamoShared
+#elif SunamoThisApp
+SunamoThisApp
+#elif SunamoThisApp
+SunamoThisApp
+#elif SunamoThisApp
+SunamoThisApp
+#elif SunamoEnums
+SunamoEnums
+#elif SunamoData
+SunamoData
 #else
 SunamoTypeOfMessage
 #endif

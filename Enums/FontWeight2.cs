@@ -1,4 +1,10 @@
-namespace SunamoEnums;
+namespace
+#if SunamoInterfaces
+SunamoInterfaces
+#else
+SunamoEnums
+#endif
+;
 
 public enum FontWeight2 : ushort
 {

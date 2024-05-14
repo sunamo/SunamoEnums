@@ -3,8 +3,14 @@
 namespace
 #if SunamoCl
 SunamoCl
+#elif SunamoWinStd
+SunamoWinStd
+#elif SunamoWinStd
+SunamoWinStd
+#elif SunamoEnums
+SunamoEnums
 #else
-    SunamoEnums.Enums
+SunamoEnums.Enums
 #endif
 ;
 

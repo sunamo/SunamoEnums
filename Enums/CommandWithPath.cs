@@ -3,6 +3,8 @@ namespace
 SunamoPS
 #elif SunamoShared
 SunamoShared
+#elif SunamoInterfaces
+SunamoInterfaces
 #else
 SunamoEnums
 #endif

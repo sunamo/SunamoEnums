@@ -3,6 +3,8 @@ namespace
 SunamoPInvoke
 #elif SunamoXlfKeys
 SunamoXlfKeys
+#elif SunamoLang
+SunamoLang
 #else
 SunamoEnums
 #endif

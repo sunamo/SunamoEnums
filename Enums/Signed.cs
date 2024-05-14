@@ -2,9 +2,15 @@ namespace
 #if SunamoBts
 SunamoBts
 #elif SunamoArgs
-    SunamoArgs
+SunamoArgs
 #elif SunamoFtp
 SunamoFtp
+#elif SunamoInterfaces
+SunamoInterfaces
+#elif SunamoInterfaces
+SunamoInterfaces
+#elif SunamoExceptions
+SunamoExceptions
 #else
 SunamoEnums
 #endif

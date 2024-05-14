@@ -3,6 +3,8 @@ namespace
 SunamoFileSystem
 #elif SunamoShared
 SunamoShared
+#elif SunamoData
+SunamoData
 #else
 SunamoEnums
 #endif

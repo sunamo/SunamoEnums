@@ -4,9 +4,17 @@ SunamoCollectionsGenericShared
 #elif SunamoDateTime
 SunamoDateTime
 #elif SunamoCl
-    SunamoCl
+SunamoCl
 #elif SunamoCollections
 SunamoCollections
+#elif SunamoEnums
+SunamoEnums
+#elif SunamoData
+SunamoData
+#elif SunamoData
+SunamoData
+#elif SunamoData
+SunamoData
 #else
 SunamoEnumsEnums
 #endif

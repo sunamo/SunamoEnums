@@ -1,4 +1,10 @@
-namespace SunamoEnums;
+namespace
+#if SunamoValues
+SunamoValues
+#else
+SunamoEnums
+#endif
+;
 
 public enum HtmlTextWriterTag
 {

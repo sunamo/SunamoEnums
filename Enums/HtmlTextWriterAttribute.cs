@@ -1,4 +1,10 @@
-namespace SunamoEnums;
+namespace
+#if SunamoValues
+SunamoValues
+#else
+SunamoEnums
+#endif
+;
 
 /// <summary>
 /// Must be in sunamo, not System.Web.UI. HtmlTextWriterAttribute, because its not available in _UAp

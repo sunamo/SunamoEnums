@@ -1,6 +1,8 @@
 namespace
 #if SunamoCl
 SunamoCl
+#elif SunamoInterfaces
+SunamoInterfaces
 #else
 SunamoEnums
 #endif

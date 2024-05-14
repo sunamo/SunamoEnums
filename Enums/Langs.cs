@@ -11,6 +11,26 @@ SunamoShared
 SunamoThisApp
 #elif SunamoXlfKeys
 SunamoXlfKeys
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoLang
+SunamoLang
+#elif SunamoData
+SunamoData
 #else
 SunamoEnums
 #endif

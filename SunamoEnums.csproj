@@ -24,5 +24,25 @@
     <Compile Include="..\SunamoExceptions\OnlyInSE\Exc.cs" Link="_linked\SunamoExceptions\OnlyInSE\Exc.cs" />
     <Compile Include="..\SunamoExceptions\OnlyInSE\Types.cs" Link="_linked\SunamoExceptions\OnlyInSE\Types.cs" />
     <Compile Include="..\SunamoXlfKeys\XlfKeys.cs" Link="_linked\SunamoXlfKeys\XlfKeys.cs" />
+    <Compile Include="..\SunamoFubuCsProjFile\_NotMine\None.cs" Link="_linked\SunamoFubuCsProjFile\_NotMine\None.cs" />
+    <Compile Include="..\SunamoFubuCore\Util\Cache.cs" Link="_linked\SunamoFubuCore\Util\Cache.cs" />
+    <Compile Include="..\SunamoFubuCsProjFile\_NotMine\Templating\Graph\Input.cs" Link="_linked\SunamoFubuCsProjFile\_NotMine\Templating\Graph\Input.cs" />
+    <Compile Include="..\SunamoFubuCsProjFile\_NotMine\Content.cs" Link="_linked\SunamoFubuCsProjFile\_NotMine\Content.cs" />
+    <Compile Include="..\SunamoFubuCsProjFile\_NotMine\Templating\Graph\Option.cs" Link="_linked\SunamoFubuCsProjFile\_NotMine\Templating\Graph\Option.cs" />
+    <Compile Include="..\SunamoExceptions\ai\AI.cs" Link="_linked\SunamoExceptions\ai\AI.cs" />
+    <Compile Include="..\SunamoCollections\CA.cs" Link="_linked\SunamoCollections\CA.cs" />
+    <Compile Include="..\SunamoCl\CL.cs" Link="_linked\SunamoCl\CL.cs" />
+    <Compile Include="..\SunamoInterfaces\Interfaces\IL.cs" Link="_linked\SunamoInterfaces\Interfaces\IL.cs" />
+    <Compile Include="..\SunamoNumbers\MH.cs" Link="_linked\SunamoNumbers\MH.cs" />
+    <Compile Include="..\SunamoWinStd\PH.cs" Link="_linked\SunamoWinStd\PH.cs" />
+    <Compile Include="..\SunamoPS\PS.cs" Link="_linked\SunamoPS\PS.cs" />
+    <Compile Include="..\SunamoString\SH.cs" Link="_linked\SunamoString\SH.cs" />
+    <Compile Include="..\SunamoFileIO\TF.cs" Link="_linked\SunamoFileIO\TF.cs" />
+    <Compile Include="..\SunamoString\TT.cs" Link="_linked\SunamoString\TT.cs" />
+    <Compile Include="..\SunamoString\Enums\Brackets.cs" Link="_linked\SunamoString\Enums\Brackets.cs" />
+    <Compile Include="..\SunamoData\Data\Date.cs" Link="_linked\SunamoData\Data\Date.cs" />
+    <Compile Include="..\SunamoIni\IniFile.cs" Link="_linked\SunamoIni\IniFile.cs" />
+    <Compile Include="..\SunamoFubuCsProjFile\_NotMine\Templating\TextFile.cs" Link="_linked\SunamoFubuCsProjFile\_NotMine\Templating\TextFile.cs" />
+    <Compile Include="..\SunamoTypeOfMessage\TypeOfMessage.cs" Link="_linked\SunamoTypeOfMessage\TypeOfMessage.cs" />
   </ItemGroup>
 </Project>

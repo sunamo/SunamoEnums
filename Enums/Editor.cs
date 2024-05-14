@@ -1,4 +1,10 @@
-namespace SunamoEnums;
+namespace
+#if SunamoWinStd
+SunamoWinStd
+#else
+SunamoEnums
+#endif
+;
 
 public enum Editor
 {
