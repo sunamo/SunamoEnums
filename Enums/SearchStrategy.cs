@@ -5,6 +5,8 @@ SunamoCl
 SunamoCollections
 #elif SunamoStringShared
 SunamoStringShared
+#elif SunamoDevCode
+SunamoDevCode
 #else
 SunamoEnums
 #endif

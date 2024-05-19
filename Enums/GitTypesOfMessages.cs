@@ -1,6 +1,8 @@
 namespace
 #if SunamoData
 SunamoData
+#elif SunamoDevCode
+SunamoDevCode
 #else
 SunamoEnums
 #endif

@@ -15,6 +15,12 @@ SunamoData
 SunamoData
 #elif SunamoData
 SunamoData
+#elif SunamoDevCode
+SunamoDevCode
+#elif SunamoDevCode
+SunamoDevCode
+#elif SunamoCollectionsGeneric
+SunamoCollectionsGeneric
 #else
 SunamoEnumsEnums
 #endif
