@@ -5,7 +5,6 @@ SunamoWinStd
 SunamoEnums
 #endif
 ;
-
 public enum Editor
 {
     Code,

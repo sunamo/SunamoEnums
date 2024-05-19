@@ -5,7 +5,6 @@ SunamoPlatformUwpInterop
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 /// Toto vždy používat jen společně s CachedSettings!!!
 /// </summary>

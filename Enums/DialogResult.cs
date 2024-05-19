@@ -7,7 +7,6 @@ SunamoInterfaces
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 ///     Usage: cl.DoYouWantToContinue
 /// </summary>

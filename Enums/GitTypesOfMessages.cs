@@ -12,7 +12,6 @@ SunamoEnums
 /// </summary>
 public enum GitTypesOfMessages
 {
-
     warning,
     error,
     fatal

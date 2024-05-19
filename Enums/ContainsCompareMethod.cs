@@ -9,7 +9,6 @@ SunamoDevCode
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 /// Used in SunamoCollectionsGenericStore + SunamoCollections
 /// </summary>

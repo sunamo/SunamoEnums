@@ -9,7 +9,6 @@ SunamoFileSystem
 SunamoEnums
 #endif
 ;
-
 public enum ComputerSizeUnits : byte
 {
     /// <summary>

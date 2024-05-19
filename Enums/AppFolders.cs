@@ -13,24 +13,21 @@ SunamoHttp
 SunamoPlatformUwpInterop
 #elif SunamoShared
 SunamoShared
+#elif SunamoXlfEngine
+SunamoXlfEngine
 #else
 SunamoEnums
 #endif
 ;
-
 public enum AppFolders
 {
     #region Not backuped
-
     Logs,
     Output,
     Cache,
     Temp,
-
     #endregion
-
     #region Backuped
-
     Input,
     Settings,
     Data,
@@ -41,6 +38,5 @@ public enum AppFolders
     Crypted,
     Reports,
     Backup
-
     #endregion
 }

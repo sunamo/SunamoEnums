@@ -5,7 +5,6 @@ SunamoInterfaces
 SunamoEnums
 #endif
 ;
-
 public enum FontWeight2 : ushort
 {
     light = 100,

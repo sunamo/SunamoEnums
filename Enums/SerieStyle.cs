@@ -9,7 +9,6 @@ SunamoData
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 /// All styles here are taked from FSTests
 /// </summary>

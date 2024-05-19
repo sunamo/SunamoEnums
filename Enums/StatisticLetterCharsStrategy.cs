@@ -5,7 +5,6 @@ SunamoString
 SunamoEnums
 #endif
 ;
-
 public enum StatisticLetterCharsStrategy
 {
     AddAsFirst,

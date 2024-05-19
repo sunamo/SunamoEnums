@@ -5,7 +5,6 @@ SunamoDevCode
 SunamoEnums
 #endif
 ;
-
 public enum ModifiersConstructor
 {
     Public,

@@ -5,7 +5,6 @@ SunamoHtml
 SunamoEnums
 #endif
 ;
-
 public enum HtmlTagSyntax
 {
     Start,

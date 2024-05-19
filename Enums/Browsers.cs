@@ -1,5 +1,3 @@
-
-
 namespace
 #if SunamoCl
 SunamoCl
@@ -13,8 +11,6 @@ SunamoEnums
 SunamoEnums.Enums
 #endif
 ;
-
-
 /// <summary>
 /// Jsou dělané přesně podle Request.Browser.Browser
 /// </summary>
@@ -31,7 +27,6 @@ public enum Browsers : byte
     //Vivaldi = 6,
     //ChromeCanary = 7,
     //Seznam = 8
-
     Chrome = 1,
     Firefox = 2,
     EdgeBeta = 3,
@@ -44,13 +39,10 @@ public enum Browsers : byte
     ChromeCanary = 9,
     Tor = 10,
     Bravebrowser = 11,
-
     ChromeBeta = 12,
-
     EdgeDev = 13,
     EdgeCanary = 14,
     ChromeDev = 15,
-
     EdgeStable = 254,
     None = 255
 }

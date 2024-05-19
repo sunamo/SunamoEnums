@@ -11,7 +11,6 @@ SunamoDevCode
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 /// FixedSpace - Contains
 /// AnySpaces -

@@ -9,7 +9,6 @@ SunamoLang
 SunamoEnums
 #endif
 ;
-
 public enum AllOne
 {
     All,

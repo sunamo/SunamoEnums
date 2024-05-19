@@ -5,7 +5,6 @@ SunamoShared
 SunamoEnums
 #endif
 ;
-
 public enum ImageFormats
 {
     Jpg,

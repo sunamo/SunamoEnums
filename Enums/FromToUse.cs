@@ -25,7 +25,6 @@ SunamoCollectionsGeneric
 SunamoEnumsEnums
 #endif
 ;
-
 public enum FromToUse
 {
     DateTime,

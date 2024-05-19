@@ -9,7 +9,6 @@ SunamoInterfaces
 SunamoEnums
 #endif
 ;
-
 public enum CommandWithPath
 {
     dos2unix

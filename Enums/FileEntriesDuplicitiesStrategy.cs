@@ -5,7 +5,6 @@ SunamoShared
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 /// Jak se má program zachovat pokud nalezne stejně pojmmenovanou složku nebo soubor
 /// </summary>

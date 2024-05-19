@@ -31,13 +31,13 @@ SunamoLang
 SunamoLang
 #elif SunamoData
 SunamoData
+#elif SunamoXlfEngine
+SunamoXlfEngine
 #else
 SunamoEnums
 #endif
 ;
-
 // Musí být ve SunamoEnums protože je sdílen např. i ve SunamoDateTime
-
 /// <summary>
 /// For projects for which is reference whole Xlf useless
 /// But it is only one file (like here Langs), consider import it instead create standalone project

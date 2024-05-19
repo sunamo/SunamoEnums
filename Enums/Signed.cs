@@ -15,7 +15,6 @@ SunamoExceptions
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 /// Zkratka pro SignedUnsigned
 /// </summary>

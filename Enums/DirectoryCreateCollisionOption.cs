@@ -7,7 +7,6 @@ SunamoShared
 SunamoEnums
 #endif
 ;
-
 public enum DirectoryCreateCollisionOption
 {
     Delete,

@@ -7,7 +7,6 @@ SunamoFileSystem
 SunamoEnums
 #endif
 ;
-
 public enum EnvironmentVariables
 {
     userprofile

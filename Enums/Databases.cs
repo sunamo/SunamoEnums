@@ -7,7 +7,6 @@ SunamoUnderscore
 SunamoEnums
 #endif
 ;
-
 public enum Databases
 {
     WeBelieve,

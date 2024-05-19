@@ -1,6 +1,3 @@
-
-
-
 namespace
 #if SunamoCl
 SunamoCl
@@ -40,8 +37,6 @@ SunamoData
 SunamoTypeOfMessage
 #endif
 ;
-
-
 /// <summary>
 ///     Error/Warning are in tbLastErrorOrWarning, other in tbLastOtherMessage
 ///     Musí být zde kvůli cl které je withoutDep
@@ -52,13 +47,11 @@ public enum TypeOfMessage
     ///     tbLastErrorOrWarning
     /// </summary>
     Error,
-
     /// <summary>
     ///     tbLastErrorOrWarning
     /// </summary>
     Warning,
     Information,
-
     /// <summary>
     ///     Returned if from text cant determine value
     /// </summary>

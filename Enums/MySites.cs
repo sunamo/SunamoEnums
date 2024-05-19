@@ -5,7 +5,6 @@ SunamoEnumsHelper
 SunamoEnums
 #endif
 ;
-
 /// <summary>
 ///     Používá se pro mnoho serverů pro ukládání do DB, proto hodnotu žádné z těchto výčtových hodnot nemůžeš měnit,
 ///     protože by ti pak nefungovala práce s DB
@@ -23,7 +22,6 @@ public enum MySites : byte
     Photos = 5,
     Lyrics = 6,
     Developer = 7,
-
     // Hlavně neměň tuto hodnotu, neposouvej ji vždy až na poslední místo, protože  pak by nefungovala práce s DB, ve které(třeba v tabulce Pages) se používá i hodnota None
     Nope = 8,
     Calc = 9,
@@ -36,14 +34,12 @@ public enum MySites : byte
     Dart = 16,
     AppsCs = 17,
     RepairService = 18,
-
     /// <summary>
     ///     Cant be Sda, one with same first letter there is in short
     ///     When I delete here, must delete also from mss. otherwise when I use continue; and convert from mss and ms,
     ///     continue; here wont find fight enum
     /// </summary>
     Adventist = 19,
-
     /// <summary>
     ///     Cant be Sda, one with same first letter there is in short
     /// </summary>

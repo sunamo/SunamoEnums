@@ -7,7 +7,6 @@ SunamoDevCode
 SunamoEnums
 #endif
 ;
-
 public enum DirectoryMoveCollisionOption
 {
     AddSerie,

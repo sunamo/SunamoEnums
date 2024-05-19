@@ -5,7 +5,6 @@ SunamoDateTime
 SunamoEnums
 #endif
 ;
-
 public enum DateTimeFormatStyles
 {
     /// <summary>

@@ -5,7 +5,6 @@ SunamoConverters
 SunamoEnums
 #endif
 ;
-
 public enum PropertyType2
 {
     ULong,

@@ -7,7 +7,6 @@ SunamoInterfaces
 SunamoEnums
 #endif
 ;
-
 public enum TwoState
 {
     TrueFalse,
