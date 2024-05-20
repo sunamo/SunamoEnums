@@ -28,7 +28,7 @@ SunamoString
 #elif SunamoStringReplace
 SunamoStringReplace
 #else
-SunamoEnumsEnums
+SunamoEnums
 #endif
 ;
 public enum FromToUse

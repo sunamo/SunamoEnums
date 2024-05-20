@@ -8,7 +8,7 @@ SunamoWinStd
 #elif SunamoEnums
 SunamoEnums
 #else
-SunamoEnums.Enums
+SunamoEnums
 #endif
 ;
 /// <summary>

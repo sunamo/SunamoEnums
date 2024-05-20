@@ -34,7 +34,7 @@ SunamoEnums
 #elif SunamoData
 SunamoData
 #else
-SunamoTypeOfMessage
+SunamoEnums
 #endif
 ;
 /// <summary>
