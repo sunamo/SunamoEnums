@@ -27,6 +27,8 @@ SunamoGoogleSheets
 SunamoString
 #elif SunamoStringReplace
 SunamoStringReplace
+#elif SunamoConverters
+SunamoConverters
 #else
 SunamoEnums
 #endif
