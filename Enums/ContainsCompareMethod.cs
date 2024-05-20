@@ -5,6 +5,12 @@ SunamoCollections
 SunamoStringShared
 #elif SunamoDevCode
 SunamoDevCode
+#elif SunamoString
+SunamoString
+#elif SunamoText
+SunamoText
+#elif SunamoStringData
+SunamoStringData
 #else
 SunamoEnums
 #endif

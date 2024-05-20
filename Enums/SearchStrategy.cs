@@ -7,6 +7,10 @@ SunamoCollections
 SunamoStringShared
 #elif SunamoDevCode
 SunamoDevCode
+#elif SunamoString
+SunamoString
+#elif SunamoStringData
+SunamoStringData
 #else
 SunamoEnums
 #endif

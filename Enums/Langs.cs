@@ -33,6 +33,8 @@ SunamoLang
 SunamoData
 #elif SunamoXlfEngine
 SunamoXlfEngine
+#elif SunamoGoogleSheets
+SunamoGoogleSheets
 #else
 SunamoEnums
 #endif

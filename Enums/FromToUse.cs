@@ -21,6 +21,12 @@ SunamoDevCode
 SunamoDevCode
 #elif SunamoCollectionsGeneric
 SunamoCollectionsGeneric
+#elif SunamoGoogleSheets
+SunamoGoogleSheets
+#elif SunamoString
+SunamoString
+#elif SunamoStringReplace
+SunamoStringReplace
 #else
 SunamoEnumsEnums
 #endif
