@@ -5,6 +5,8 @@ SunamoDebugging
 SunamoDevCode
 #elif SunamoFileSystem
 SunamoFileSystem
+#elif SunamoGetFiles
+SunamoGetFiles
 #else
 SunamoEnums
 #endif
