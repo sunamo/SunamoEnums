@@ -1,6 +1,6 @@
 namespace SunamoEnums;
 
-public enum CurrenciesISO4217
+public enum CurrenciesIso4217
 {
     /// <summary>
     /// Currency
