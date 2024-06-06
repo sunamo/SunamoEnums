@@ -1,6 +1,6 @@
 namespace
-#if SunamoLogger
-SunamoLogger
+#if SunamoLogging
+SunamoLogging
 #elif SunamoInterfaces
 SunamoInterfaces
 #else

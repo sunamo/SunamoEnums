@@ -1,16 +1,16 @@
 namespace
 #if SunamoCl
 SunamoCl
-#elif SunamoLogger
-SunamoLogger
-#elif SunamoLogger
-SunamoLogger
-#elif SunamoLogger
-SunamoLogger
-#elif SunamoLogger
-SunamoLogger
-#elif SunamoLogger
-SunamoLogger
+#elif SunamoLogging
+SunamoLogging
+#elif SunamoLogging
+SunamoLogging
+#elif SunamoLogging
+SunamoLogging
+#elif SunamoLogging
+SunamoLogging
+#elif SunamoLogging
+SunamoLogging
 #elif SunamoLogMessage
 SunamoLogMessage
 #elif SunamoLogMessage
