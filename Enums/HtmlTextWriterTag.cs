@@ -1,12 +1,3 @@
-namespace
-#if SunamoValues
-SunamoValues
-#elif SunamoDevCode
-SunamoDevCode
-#else
-SunamoEnums
-#endif
-;
 public enum HtmlTextWriterTag
 {
     Unknown = 0,

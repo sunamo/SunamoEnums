@@ -1,10 +1,3 @@
-namespace
-#if SunamoEnumsHelper
-SunamoEnumsHelper
-#else
-SunamoEnums
-#endif
-;
 /*
 * Can use hexadecimal or decimal - its not important
 *

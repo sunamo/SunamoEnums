@@ -1,14 +1,3 @@
-namespace
-#if SunamoFileSystem
-SunamoFileSystem
-#elif SunamoShared
-SunamoShared
-#elif SunamoData
-SunamoData
-#else
-SunamoEnums
-#endif
-;
 /// <summary>
 /// All styles here are taked from FSTests
 /// </summary>

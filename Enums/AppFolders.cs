@@ -1,24 +1,3 @@
-namespace
-#if SunamoCollectionOnDrive
-SunamoCollectionOnDrive
-#elif SunamoDevCode
-SunamoDevCode
-#elif SunamoFileIO
-SunamoFileIO
-#elif SunamoFileSystem
-SunamoFileSystem
-#elif SunamoHttp
-SunamoHttp
-#elif SunamoPlatformUwpInterop
-SunamoPlatformUwpInterop
-#elif SunamoShared
-SunamoShared
-#elif SunamoXlfEngine
-SunamoXlfEngine
-#else
-SunamoEnums
-#endif
-;
 public enum AppFolders
 {
     #region Not backuped

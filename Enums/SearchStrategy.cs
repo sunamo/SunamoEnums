@@ -1,20 +1,3 @@
-namespace
-#if SunamoCl
-SunamoCl
-#elif SunamoCollections
-SunamoCollections
-#elif SunamoStringShared
-SunamoStringShared
-#elif SunamoDevCode
-SunamoDevCode
-#elif SunamoString
-SunamoString
-#elif SunamoStringData
-SunamoStringData
-#else
-SunamoEnums
-#endif
-;
 /// <summary>
 /// FixedSpace - Contains
 /// AnySpaces -

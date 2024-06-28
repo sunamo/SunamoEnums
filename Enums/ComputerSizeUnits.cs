@@ -1,16 +1,3 @@
-namespace
-#if SunamoDebugging
-SunamoDebugging
-#elif SunamoDevCode
-SunamoDevCode
-#elif SunamoFileSystem
-SunamoFileSystem
-#elif SunamoGetFiles
-SunamoGetFiles
-#else
-SunamoEnums
-#endif
-;
 public enum ComputerSizeUnits : byte
 {
     /// <summary>

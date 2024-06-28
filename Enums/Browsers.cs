@@ -1,16 +1,3 @@
-namespace
-#if SunamoCl
-SunamoCl
-#elif SunamoWinStd
-SunamoWinStd
-#elif SunamoWinStd
-SunamoWinStd
-#elif SunamoEnums
-SunamoEnums
-#else
-SunamoEnums
-#endif
-;
 /// <summary>
 /// Jsou dělané přesně podle Request.Browser.Browser
 /// </summary>

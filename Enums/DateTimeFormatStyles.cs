@@ -1,10 +1,3 @@
-namespace
-#if SunamoDateTime
-SunamoDateTime
-#else
-SunamoEnums
-#endif
-;
 public enum DateTimeFormatStyles
 {
     /// <summary>

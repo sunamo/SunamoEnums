@@ -1,20 +1,3 @@
-namespace
-#if SunamoCollections
-SunamoCollections
-#elif SunamoStringShared
-SunamoStringShared
-#elif SunamoDevCode
-SunamoDevCode
-#elif SunamoString
-SunamoString
-#elif SunamoText
-SunamoText
-#elif SunamoStringData
-SunamoStringData
-#else
-SunamoEnums
-#endif
-;
 /// <summary>
 /// Used in SunamoCollectionsGenericStore + SunamoCollections
 /// </summary>
