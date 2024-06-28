@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 /// Toto vždy používat jen společně s CachedSettings!!!
 /// </summary>

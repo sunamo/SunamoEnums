@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 /// Jsou dělané přesně podle Request.Browser.Browser
 /// </summary>

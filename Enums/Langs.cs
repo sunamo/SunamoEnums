@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 // Musí být ve SunamoEnums protože je sdílen např. i ve SunamoDateTime
 /// <summary>
 /// For projects for which is reference whole Xlf useless

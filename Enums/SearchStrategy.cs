@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 /// FixedSpace - Contains
 /// AnySpaces -

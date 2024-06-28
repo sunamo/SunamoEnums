@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 ///     Usage: cl.DoYouWantToContinue
 /// </summary>

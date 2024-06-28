@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 ///     Original are values which exists before add remains from ByteOrderMark.cs
 ///     Usage: FubuCsprojFile

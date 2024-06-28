@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 public enum DateTimeFormatStyles
 {
     /// <summary>

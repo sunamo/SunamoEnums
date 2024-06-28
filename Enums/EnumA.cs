@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /*
 * Can use hexadecimal or decimal - its not important
 *

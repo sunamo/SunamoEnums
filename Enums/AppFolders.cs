@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 public enum AppFolders
 {
     #region Not backuped

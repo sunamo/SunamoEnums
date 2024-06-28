@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 /// Used in SunamoCollectionsGenericStore + SunamoCollections
 /// </summary>

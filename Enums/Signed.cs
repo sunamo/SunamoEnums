@@ -1,3 +1,5 @@
+
+namespace SunamoEnums;
 /// <summary>
 /// Zkratka pro SignedUnsigned
 /// </summary>
