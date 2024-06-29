@@ -1,3 +1,4 @@
+namespace SunamoEnums;
 
 //namespace SunamoEnums;
 //public enum AppFolders
