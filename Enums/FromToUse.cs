@@ -1,6 +1,6 @@
 
 namespace SunamoEnums;
-public enum FromToUse
+public enum FromToUseEnums
 {
     DateTime,
     Unix,
