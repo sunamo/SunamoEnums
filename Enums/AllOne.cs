@@ -1,4 +1,3 @@
-
 namespace SunamoEnums.Enums;
 public enum AllOne
 {

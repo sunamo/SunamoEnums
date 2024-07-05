@@ -11,4 +11,3 @@ public enum ButtonAction
     SaveToClipboard,
     Run
 }
-

@@ -1,4 +1,3 @@
-
 namespace SunamoEnums.Enums;
 /// <summary>
 ///     Používá se pro mnoho serverů pro ukládání do DB, proto hodnotu žádné z těchto výčtových hodnot nemůžeš měnit,

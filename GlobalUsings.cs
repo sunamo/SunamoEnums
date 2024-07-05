@@ -13,3 +13,6 @@ global using SunamoEnums._sunamo.SunamoValues;
 global using SunamoEnums._sunamo.SunamoXlfKeys;
 global using SunamoEnums._sunamo.SunamoExceptions.OnlyInSE;
 global using SunamoEnums._sunamo.SunamoExceptions._AddedToAllCsproj;
+global using System.Diagnostics;
+global using System.Net;
+global using System.Threading.Tasks;

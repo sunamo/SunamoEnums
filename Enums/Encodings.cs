@@ -1,4 +1,3 @@
-
 namespace SunamoEnums.Enums;
 /// <summary>
 ///     Original are values which exists before add remains from ByteOrderMark.cs

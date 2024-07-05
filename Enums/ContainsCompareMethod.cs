@@ -1,4 +1,3 @@
-
 namespace SunamoEnums.Enums;
 /// <summary>
 /// Used in SunamoCollectionsGenericStore + SunamoCollections

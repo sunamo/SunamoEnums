@@ -1,4 +1,3 @@
-
 namespace SunamoEnums._sunamo.SunamoValues;
 internal class AllChars
 {

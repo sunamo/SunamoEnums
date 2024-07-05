@@ -1,4 +1,3 @@
-
 namespace SunamoEnums.Enums;
 /*
 * Can use hexadecimal or decimal - its not important
