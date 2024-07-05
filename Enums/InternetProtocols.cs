@@ -1,4 +1,4 @@
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 
 /// <summary>
 /// Povolené internetové protokoly v GoShorteneru

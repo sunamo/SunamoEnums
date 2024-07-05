@@ -1,5 +1,5 @@
 
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 /// <summary>
 /// Used in SunamoCollectionsGenericStore + SunamoCollections
 /// </summary>

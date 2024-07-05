@@ -1,5 +1,5 @@
 
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 /// <summary>
 /// All styles here are taked from FSTests
 /// </summary>

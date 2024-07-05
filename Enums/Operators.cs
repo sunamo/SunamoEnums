@@ -1,4 +1,4 @@
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 
 /// <summary>
 /// Don't change, is used in database

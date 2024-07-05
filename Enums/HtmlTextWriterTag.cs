@@ -1,5 +1,5 @@
 
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 public enum HtmlTextWriterTag
 {
     Unknown = 0,

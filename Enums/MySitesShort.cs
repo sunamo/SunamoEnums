@@ -1,4 +1,4 @@
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 
 /// <summary>
 ///     Every web should start with unique letter - checked by AddSpaceAfterFirstLetterForEveryAndSort -

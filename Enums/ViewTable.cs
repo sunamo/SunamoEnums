@@ -1,4 +1,4 @@
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 
 public enum ViewTable : byte
 {

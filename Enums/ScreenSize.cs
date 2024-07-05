@@ -1,5 +1,5 @@
 
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 /// <summary>
 /// Pro rychlé zjištění můžeš používat i metody UniversalInterop, vhodné zejména v případě že aplikace se ovládá např. gesty prstů
 /// Vždy se jedná o delší stranu displeje

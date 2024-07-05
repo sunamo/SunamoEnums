@@ -1,4 +1,4 @@
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 
 /// <summary>
 /// Tento výčet říká kam se mají ukládat uživatelská data aplikace ve formě řetězců

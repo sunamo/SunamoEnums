@@ -1,4 +1,4 @@
-namespace SunamoEnums;
+namespace SunamoEnums._sunamo.SunamoValues;
 
 
 

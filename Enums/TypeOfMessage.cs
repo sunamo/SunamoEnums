@@ -1,5 +1,5 @@
 
-namespace SunamoEnums;
+namespace SunamoEnums.Enums;
 /// <summary>
 ///     Error/Warning are in tbLastErrorOrWarning, other in tbLastOtherMessage
 ///     Musí být zde kvůli cl které je withoutDep
