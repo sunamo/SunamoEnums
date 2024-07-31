@@ -1,5 +1,5 @@
 namespace SunamoEnums.Enums;
-public enum FromToUseEnums
+public enum FromToUse
 {
     DateTime,
     Unix,

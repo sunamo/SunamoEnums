@@ -11,3 +11,7 @@ global using SunamoEnums._sunamo.SunamoValues;
 global using SunamoEnums._sunamo.SunamoExceptions.OnlyInSE;
 global using System.Diagnostics;
 global using System.Net;
+global using SunamoEnums.Delegates;
+global using SunamoEnums._sunamo;
+global using SunamoEnums._sunamo.SunamoStringGetLines;
+global using SunamoEnums._sunamo.SunamoXlfKeys;
