@@ -14,4 +14,3 @@ global using System.Net;
 global using SunamoEnums.Delegates;
 global using SunamoEnums._sunamo;
 global using SunamoEnums._sunamo.SunamoStringGetLines;
-global using SunamoEnums._sunamo.SunamoXlfKeys;
