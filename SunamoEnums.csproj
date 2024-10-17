@@ -24,4 +24,7 @@
   <ItemGroup>
     <None Include="readme.md" Pack="True" PackagePath="." />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="_sunamo\SunamoExceptions\" />
+  </ItemGroup>
 </Project>
