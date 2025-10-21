@@ -1,3 +1,5 @@
+// EN: Variable names have been checked and replaced with self-descriptive names
+// CZ: Názvy proměnných byly zkontrolovány a nahrazeny samopopisnými názvy
 namespace SunamoEnums.Enums;
 /// <summary>
 /// Pro rychlé zjištění můžeš používat i metody UniversalInterop, vhodné zejména v případě že aplikace se ovládá např. gesty prstů
