@@ -1,6 +1,8 @@
+namespace SunamoEnums.Enums;
+
+// variables names: ok
 // EN: Variable names have been checked and replaced with self-descriptive names
 // CZ: Názvy proměnných byly zkontrolovány a nahrazeny samopopisnými názvy
-namespace SunamoEnums.Enums;
 /// <summary>
 ///     Original are values which exists before add remains from ByteOrderMark.cs
 ///     Usage: FubuCsprojFile

@@ -1,6 +1,8 @@
+namespace SunamoEnums.Enums;
+
+// variables names: ok
 // EN: Variable names have been checked and replaced with self-descriptive names
 // CZ: Názvy proměnných byly zkontrolovány a nahrazeny samopopisnými názvy
-namespace SunamoEnums.Enums;
 /// <summary>
 ///     Používá se pro mnoho serverů pro ukládání do DB, proto hodnotu žádné z těchto výčtových hodnot nemůžeš měnit,
 ///     protože by ti pak nefungovala práce s DB
