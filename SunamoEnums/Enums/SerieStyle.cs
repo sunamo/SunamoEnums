@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 // variables names: ok
@@ -24,5 +25,6 @@ public enum SerieStyle
     /// abc_001_01.txt.txt
     /// </summary>
     Underscore,
+    /// <summary>All</summary>
     All
 }

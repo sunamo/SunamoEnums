@@ -1,5 +1,9 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// CurrenciesIso4217
+/// </summary>
 public enum CurrenciesIso4217
 {
     /// <summary>

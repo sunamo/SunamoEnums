@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 /// <summary>
@@ -5,7 +6,10 @@ namespace SunamoEnums.Enums;
 /// </summary>
 public enum DebugOutput
 {
+    /// <summary>MessageBox</summary>
     MessageBox,
+    /// <summary>Debug</summary>
     Debug,
+    /// <summary>CustomForm</summary>
     CustomForm
 }

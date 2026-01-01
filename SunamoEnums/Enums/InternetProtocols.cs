@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 /// <summary>
@@ -5,7 +6,10 @@ namespace SunamoEnums.Enums;
 /// </summary>
 public enum InternetProtocols : byte
 {
+    /// <summary>Unknown</summary>
     Unknown = 0,
+    /// <summary>http</summary>
     http = 1,
+    /// <summary>https</summary>
     https = 2
 }

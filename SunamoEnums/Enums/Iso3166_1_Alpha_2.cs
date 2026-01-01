@@ -1,5 +1,9 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// Iso3166_1_Alpha_2
+/// </summary>
 public enum Iso3166_1_Alpha_2
 {
     /// <summary>

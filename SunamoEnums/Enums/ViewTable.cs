@@ -1,5 +1,9 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// ViewTable
+/// </summary>
 public enum ViewTable : byte
 {
     /// <summary>
@@ -30,8 +34,11 @@ public enum ViewTable : byte
     /// short
     /// </summary>
     Geo_UploadedGpxTracks = 6,
+    /// <summary>Sda_Video</summary>
     Sda_Video = 7,
+    /// <summary>Sda_Activity</summary>
     Sda_Activity = 8,
 
+    /// <summary>None</summary>
     None = 255
 }

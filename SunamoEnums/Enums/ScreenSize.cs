@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 // variables names: ok

@@ -1,5 +1,9 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// DoIfFileExists
+/// </summary>
 public enum DoIfFileExists
 {
     /// <summary>

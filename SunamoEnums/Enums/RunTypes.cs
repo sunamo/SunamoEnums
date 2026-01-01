@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 /// <summary>
@@ -5,8 +6,12 @@ namespace SunamoEnums.Enums;
 /// </summary>
 public enum RunTypes
 {
+    /// <summary>Trial</summary>
     Trial,
+    /// <summary>Full</summary>
     Full,
+    /// <summary>Expired</summary>
     Expired,
+    /// <summary>Unknown</summary>
     Unknown
 }

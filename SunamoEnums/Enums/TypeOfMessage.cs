@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 // variables names: ok
@@ -17,11 +18,14 @@ public enum TypeOfMessage
     ///     tbLastErrorOrWarning
     /// </summary>
     Warning,
+    /// <summary>Information</summary>
     Information,
     /// <summary>
     ///     Returned if from text cant determine value
     /// </summary>
     Ordinal,
+    /// <summary>Appeal</summary>
     Appeal,
+    /// <summary>Success</summary>
     Success
 }

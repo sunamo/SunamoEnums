@@ -1,3 +1,4 @@
+// variables names: ok
 namespace SunamoEnums.Enums;
 
 /// <summary>
@@ -5,6 +6,8 @@ namespace SunamoEnums.Enums;
 /// </summary>
 public enum WriteInXml
 {
+    /// <summary>Atributech</summary>
     Atributech,
+    /// <summary>Prvcich</summary>
     Prvcich
 }
