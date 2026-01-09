@@ -1,9 +1,6 @@
 // variables names: ok
 namespace SunamoEnums.Enums;
 
-// variables names: ok
-// EN: Variable names have been checked and replaced with self-descriptive names
-// CZ: Názvy proměnných byly zkontrolovány a nahrazeny samopopisnými názvy
 /// <summary>
 ///     Original are values which exists before add remains from ByteOrderMark.cs
 ///     Usage: FubuCsprojFile
@@ -46,11 +43,3 @@ public enum Encodings
     /// <summary>GB18030</summary>
     GB18030
 }
-//public enum2 Encodings
-//{
-//    utf7,
-//    utf8,
-//    utf16Le,
-//    utf16Be,
-//    utf32
-//}
