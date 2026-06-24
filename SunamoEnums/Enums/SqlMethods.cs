@@ -1,16 +1,10 @@
 namespace SunamoEnums.Enums;
 
-/// <summary>
-/// Operace, ktere muze provest dat. adapter na DB
-/// </summary>
+// Operace, ktere muze provest dat. adapter na DB
 public enum SqlMethods
 {
-    /// <summary>Insert</summary>
     Insert,
-    /// <summary>Delete</summary>
     Delete,
-    /// <summary>Update</summary>
     Update,
-    /// <summary>Select</summary>
     Select
 }

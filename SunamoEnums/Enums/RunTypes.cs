@@ -1,16 +1,10 @@
 namespace SunamoEnums.Enums;
 
-/// <summary>
-/// Případy licence které mohou být
-/// </summary>
+// Případy licence které mohou být
 public enum RunTypes
 {
-    /// <summary>Trial</summary>
     Trial,
-    /// <summary>Full</summary>
     Full,
-    /// <summary>Expired</summary>
     Expired,
-    /// <summary>Unknown</summary>
     Unknown
 }
