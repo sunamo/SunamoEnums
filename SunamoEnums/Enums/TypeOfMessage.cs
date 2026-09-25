@@ -1,16 +1,27 @@
 namespace SunamoEnums.Enums;
 
-// Error/Warning are in tbLastErrorOrWarning, other in tbLastOtherMessage
-// Musí být zde kvůli cl které je withoutDep
+/// <summary>
+///     Error/Warning are in tbLastErrorOrWarning, other in tbLastOtherMessage
+///     Musí být zde kvůli cl které je withoutDep
+/// </summary>
 public enum TypeOfMessage
 {
-    // tbLastErrorOrWarning
+    /// <summary>
+    ///     tbLastErrorOrWarning
+    /// </summary>
     Error,
-    // tbLastErrorOrWarning
+    /// <summary>
+    ///     tbLastErrorOrWarning
+    /// </summary>
     Warning,
+    /// <summary>Information</summary>
     Information,
-    // Returned if from text cant determine value
+    /// <summary>
+    ///     Returned if from text cant determine value
+    /// </summary>
     Ordinal,
+    /// <summary>Appeal</summary>
     Appeal,
+    /// <summary>Success</summary>
     Success
 }

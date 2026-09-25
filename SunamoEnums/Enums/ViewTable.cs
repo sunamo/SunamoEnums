@@ -1,22 +1,43 @@
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// ViewTable
+/// </summary>
 public enum ViewTable : byte
 {
-    // int
+    /// <summary>
+    /// int
+    /// </summary>
     Phs_PhsGallery = 0,
-    // int
+    /// <summary>
+    /// int
+    /// </summary>
     Phs_PhsAlbum = 1,
-    // int
+    /// <summary>
+    /// int
+    /// </summary>
     Phs_PhsPhoto = 2,
-    // short
+    /// <summary>
+    /// short
+    /// </summary>
     App_App = 3,
-    // int
+    /// <summary>
+    /// int
+    /// </summary>
     Lyr_Song = 4,
-    // int
+    /// <summary>
+    /// int
+    /// </summary>
     Geo_Caches = 5,
-    // short
+    /// <summary>
+    /// short
+    /// </summary>
     Geo_UploadedGpxTracks = 6,
+    /// <summary>Sda_Video</summary>
     Sda_Video = 7,
+    /// <summary>Sda_Activity</summary>
     Sda_Activity = 8,
+
+    /// <summary>None</summary>
     None = 255
 }

@@ -1,14 +1,26 @@
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// All styles here are taked from FSTests
+/// </summary>
 public enum SerieStyle
 {
-    // abc-1.txt
-    // abc-1.txt.txt
+    /// <summary>
+    /// abc-1.txt
+    /// abc-1.txt.txt
+    /// 
+    /// </summary>
     Dash,
-    // abc(1).txt
+    /// <summary>
+    /// abc(1).txt
+    /// 
+    /// </summary>
     Brackets,
-    // MainPage.xaml_008.cs
-    // abc_001_01.txt.txt
+    /// <summary>
+    /// MainPage.xaml_008.cs
+    /// abc_001_01.txt.txt
+    /// </summary>
     Underscore,
+    /// <summary>All</summary>
     All
 }

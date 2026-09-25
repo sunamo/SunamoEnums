@@ -1,9 +1,16 @@
 namespace SunamoEnums.Enums;
 
+/// <summary>
+/// DoIfFileExists
+/// </summary>
 public enum DoIfFileExists
 {
-    // Nebude přidávat nic
+    /// <summary>
+    /// Nebude přidávat nic, 
+    /// </summary>
     Overwrite,
-    // Nechá stávající soubor, nový obsah se zahodí
+    /// <summary>
+    /// Nechá stávající soubor, nový obsah se zahodí
+    /// </summary>
     DoNothing
 }

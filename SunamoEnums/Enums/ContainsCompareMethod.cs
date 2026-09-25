@@ -1,10 +1,16 @@
 namespace SunamoEnums.Enums;
 
-// Used in SunamoCollectionsGenericStore + SunamoCollections
+/// <summary>
+/// Used in SunamoCollectionsGenericStore + SunamoCollections
+/// </summary>
 public enum ContainsCompareMethod
 {
+    /// <summary>WholeInput</summary>
     WholeInput,
+    /// <summary>SplitToWords</summary>
     SplitToWords,
-    // split to words and check for ! at [0]
+    /// <summary>
+    /// split to words and check for ! at [0]
+    /// </summary>
     Negations
 }
