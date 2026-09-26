@@ -54,5 +54,8 @@ public enum MySites : byte
     /// </summary>
     Adventist = 19,
     /// <summary>None</summary>
+    Blogs = 20,
+    Shop = 21,
+    WindowsMetroControls = 22,
     None = 255
 }

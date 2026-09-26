@@ -60,5 +60,7 @@ public enum MySitesShort : byte
     /// </summary>
     Yth = 19,
     /// <summary>None</summary>
+    Blg = 20,
+    Shp = 21,
     None = 255
 }
