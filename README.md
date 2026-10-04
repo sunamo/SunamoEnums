@@ -1,5 +1,10 @@
 # SunamoEnums
 
+## Short description
+
+Výčtové typy sdílené napříč mnoha balíčky sady Sunamo.
+
+
 Enums shared across many packages
 
 ## Overview
