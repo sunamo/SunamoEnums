@@ -7,7 +7,6 @@ namespace SunamoEnums.Enums;
 // Future\ - is here list with first letters
 public enum MySites : byte
 {
-    //Ggdag = 0,
     BibleServer = 1,
     Cats = 2,
     GeoCaching = 3,

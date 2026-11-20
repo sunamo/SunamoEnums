@@ -2,7 +2,6 @@ namespace SunamoEnums.Enums;
 
 public enum MySitesShort : byte
 {
-    //Ggd = 0,
     Bib = 1,
     Cts = 2,
     Geo = 3,
