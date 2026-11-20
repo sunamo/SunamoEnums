@@ -1,4 +1,3 @@
-// variables names: ok
 namespace RunnerEnums;
 
 internal class Program

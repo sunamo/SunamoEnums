@@ -1,6 +1,5 @@
 namespace SunamoEnums.Enums;
 
-// Variable names have been checked and replaced with self-descriptive names
 // Must be in sunamo, not System.Web.UI. HtmlTextWriterAttribute, because its not available in _UAp
 public enum HtmlTextWriterAttribute
 {
