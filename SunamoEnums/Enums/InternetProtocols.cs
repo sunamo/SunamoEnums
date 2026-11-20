@@ -1,6 +1,6 @@
 namespace SunamoEnums.Enums;
 
-// Povolené internetové protokoly v GoShorteneru
+// Allowed internet protocols in GoShortener
 public enum InternetProtocols : byte
 {
     Unknown = 0,

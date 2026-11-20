@@ -1,6 +1,6 @@
 namespace SunamoEnums.Enums;
 
-// Případy licence které mohou být
+// License cases that can occur
 public enum RunTypes
 {
     Trial,

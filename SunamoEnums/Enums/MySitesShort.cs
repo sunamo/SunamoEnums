@@ -10,7 +10,7 @@ public enum MySitesShort : byte
     Lyr = 6,
     Dev = 7,
 
-    // Hlavně neměň tuto hodnotu, neposouvej ji vždy až na poslední místo, protože pak by nefungovala práce s DB, ve které(třeba v tabulce Pages) se používá i hodnota None
+    // Above all, do not change this value and do not always move it to the last position, because then working with the DB would break, where (e.g. in the Pages table) the value None is also used
     Nope = 8,
 
     // Cant be clc due to Cts
@@ -23,7 +23,7 @@ public enum MySitesShort : byte
     Wid = 15,
     Var = 16,
 
-    // Honem to přelož aneb ChytreAplikace
+    // Translate it quickly, a.k.a. ChytreAplikace
     Htp = 17,
     Rps = 18,
 

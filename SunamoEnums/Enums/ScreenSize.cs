@@ -1,15 +1,15 @@
 namespace SunamoEnums.Enums;
 
-// Pro rychlé zjištění můžeš používat i metody UniversalInterop, vhodné zejména v případě že aplikace se ovládá např. gesty prstů
-// Vždy se jedná o delší stranu displeje
-// Pokud některá app tyto rozměny změní, musí to být zaznamenáno zde pro snadné porovnání a přehled
-// Každá aplikace může mít jiné minimální rozměry pro danou hodnotu
+// For a quick check you can also use the UniversalInterop methods, suitable especially when the application is controlled e.g. by finger gestures
+// It is always the longer side of the display
+// If any app changes these dimensions, it must be recorded here for easy comparison and overview
+// Each application can have different minimum dimensions for the given value
 public enum ScreenSize
 {
     // Telefon, Nad 0
     Small,
-    // Tablet(spadne tu i většina notebooků a PC), nad 1279
+    // Tablet (most laptops and PCs fall here too), above 1279
     Medium,
-    // Extrémní PC, Notebook, Nad 1919
+    // Extreme PC, Notebook, Over 1919
     Large
 }

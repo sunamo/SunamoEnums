@@ -2,8 +2,8 @@ namespace SunamoEnums.Enums;
 
 public enum DoIfFileExists
 {
-    // Nebude přidávat nic
+    // Will not add anything
     Overwrite,
-    // Nechá stávající soubor, nový obsah se zahodí
+    // Keeps the existing file, the new content is discarded
     DoNothing
 }

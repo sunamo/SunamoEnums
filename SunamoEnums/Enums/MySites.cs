@@ -1,7 +1,7 @@
 namespace SunamoEnums.Enums;
 
-// Používá se pro mnoho serverů pro ukládání do DB, proto hodnotu žádné z těchto výčtových hodnot nemůžeš měnit,
-// protože by ti pak nefungovala práce s DB
+// It is used by many servers for saving to the DB, so you cannot change the value of any of these enum members,
+// because working with the DB would not work for you then
 // In Long should have same first letter as in Short
 // After every add/change call from HostingManager via SuMenuItem and open :\Sync\Develop of Future\Lists-Develop of
 // Future\ - is here list with first letters
@@ -14,7 +14,7 @@ public enum MySites : byte
     Photos = 5,
     Lyrics = 6,
     Developer = 7,
-    // Hlavně neměň tuto hodnotu, neposouvej ji vždy až na poslední místo, protože  pak by nefungovala práce s DB, ve které(třeba v tabulce Pages) se používá i hodnota None
+    // Above all, do not change this value and do not always move it to the last position, because then working with the DB would break, where (e.g. in the Pages table) the value None is also used
     Nope = 8,
     Calc = 9,
     ThunderBrigade = 10,

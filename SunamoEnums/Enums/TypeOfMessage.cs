@@ -1,7 +1,7 @@
 namespace SunamoEnums.Enums;
 
 // Error/Warning are in tbLastErrorOrWarning, other in tbLastOtherMessage
-// Musí být zde kvůli cl které je withoutDep
+// Must be here because of cl which is withoutDep
 public enum TypeOfMessage
 {
     // tbLastErrorOrWarning
