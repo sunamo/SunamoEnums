@@ -1,6 +1,6 @@
 namespace SunamoEnums.Enums;
 
-// Operace, ktere muze provest dat. adapter na DB
+// Operations that the data adapter for the DB can perform
 public enum SqlMethods
 {
     Insert,

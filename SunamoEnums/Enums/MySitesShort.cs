@@ -23,7 +23,7 @@ public enum MySitesShort : byte
     Wid = 15,
     Var = 16,
 
-    // Translate it quickly, a.k.a. ChytreAplikace
+    // Translate it quickly
     Htp = 17,
     Rps = 18,
 
