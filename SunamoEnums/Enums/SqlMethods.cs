@@ -1,10 +1,25 @@
 namespace SunamoEnums.Enums;
 
-// Operace, ktere muze provest dat. adapter na DB
+// Operations that the data adapter for the DB can perform
+/// <summary>
+/// Represents the sql methods type.
+/// </summary>
 public enum SqlMethods
 {
+    /// <summary>
+    /// The insert value.
+    /// </summary>
     Insert,
+    /// <summary>
+    /// The delete value.
+    /// </summary>
     Delete,
+    /// <summary>
+    /// The update value.
+    /// </summary>
     Update,
+    /// <summary>
+    /// The select value.
+    /// </summary>
     Select
 }
